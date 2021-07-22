@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.mapbox_test1.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "C:\\Users\\ZiyaoHe\\Documents\\BirdImmersive\\BirdImmersive\\Mapbox_Bird_Test\\Assets\\StreamingAssets\\SteamVR\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "Mapbox_test1 [Testing]"
+        }
+      }
+    }
+  ]
+}

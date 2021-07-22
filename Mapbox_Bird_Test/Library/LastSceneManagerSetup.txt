@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Scene/3D_datavisualization.unity
+  isLoaded: 1
+  isActive: 1
